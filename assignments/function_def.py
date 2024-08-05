@@ -16,9 +16,13 @@ def add(num1,num2):
 add(3,2)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('add')
 =======
 print('add')
 >>>>>>> 237385c (rebase with develop)
 =======
 >>>>>>> f4b70bc (adding changes)
+=======
+print('add')
+>>>>>>> 21e2202 (adding change)
