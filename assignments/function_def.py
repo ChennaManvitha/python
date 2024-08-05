@@ -14,10 +14,3 @@ def add(num1,num2):
     return(num3)
 
 add(3,2)
-print('add')
-<<<<<<< HEAD
-=======
-print('add')
->>>>>>> 17d30ec (modified)
-=======
->>>>>>> 237385c (rebase with develop)
