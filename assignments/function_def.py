@@ -14,8 +14,12 @@ def add(num1,num2):
     return(num3)
 
 add(3,2)
+<<<<<<< HEAD
 
 #bharath adding comments
 def print_val():
     print('print here')
 print('add')
+=======
+print('add')
+>>>>>>> 17d30ecc792c49c96b7036f985cc31107fc50801
