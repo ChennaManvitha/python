@@ -17,6 +17,7 @@ add(3,2)
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('add')
 =======
 print('add')
@@ -26,3 +27,6 @@ print('add')
 =======
 print('add')
 >>>>>>> 21e2202 (adding change)
+=======
+print('add')
+>>>>>>> 21e22022ea950d8a6fcb746ac1aa4936680815d6
