@@ -14,4 +14,3 @@ def add(num1,num2):
     return(num3)
 
 add(3,2)
-print('add')
